@@ -44,13 +44,13 @@ header p {
 
 section {
     padding: 10vh 0 10vh 30px;
-    line-height: 2em;
+    line-height: 3em;
     font-family: var(--font3);
-    font-size: 2.5vw;
+    font-size: 3vw;
 }
 
 section p {
-    padding-bottom: 2em;
+    padding-bottom: 3em;
 }
 
 section.normal {
